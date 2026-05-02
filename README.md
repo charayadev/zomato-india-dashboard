@@ -17,7 +17,7 @@
 
 ## 🚀 Live Demo
 
-👉 [View Live Dashboard](https://your-app-link.streamlit.app)
+👉 [View Live Dashboard](https://zomato-india-dashboard-whpcf5dtythlegqoabncaf.streamlit.app/)
 
 ---
 
