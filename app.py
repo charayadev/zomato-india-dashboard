@@ -49,7 +49,7 @@ st.markdown("""
 """, unsafe_allow_html=True) #header section HTML ends here
 
 # load the data
-df = pd.read_csv("C:\\Users\\HP\\OneDrive\\Documents\\Zomato_data.csv", encoding = "latin1")
+df = pd.read_csv(r"C:\Users\HP\OneDrive\Desktop\Zomato_data_analysis\Zomato_data_clean.csv", encoding="latin1")
 # data load check
 # st.write(df.head())
 
